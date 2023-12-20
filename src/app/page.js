@@ -4,6 +4,7 @@ const Page = () => {
   return (
     <div className="container ">
       <Hero />
+      <Hero />
     </div>
   )
 }

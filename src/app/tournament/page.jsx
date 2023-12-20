@@ -1,6 +1,6 @@
 const Page = () => {
   return (
-    <div>About Page</div>
+    <div>Tournament Page</div>
   )
 }
 
